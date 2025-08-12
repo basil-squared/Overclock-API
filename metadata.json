@@ -1,0 +1,15 @@
+{
+    "id": "overclockapi",
+    "name": "Overclock API",
+    "author": ["basil-squared"],
+    "description": "A library allowing for simplistic overclocking of Jokers",
+    "prefix": "oapi",
+    "badge_colour": "fc8048",
+    "dependencies": [
+            "Steamodded (>=1.0.0~BETA-0711a)"
+            
+    ],
+    "main_file": "OAPI.lua",
+    "version": "1.0.0"
+    
+}
